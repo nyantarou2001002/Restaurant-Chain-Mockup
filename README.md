@@ -1,10 +1,8 @@
-<img width="1440" alt="スクリーンショット 2024-10-04 17 25 44" src="https://github.com/user-attachments/assets/841a6ba5-4af0-49e0-a304-a852676e6d63"># Restaurant-Chain-Mockup
-
 # 概要
 レストランチェーンの詳細、各ロケーション、従業員の情報を効率的に管理するためのレストランチェーン管理システムのモックアップページ
 
-# デモ!
-[Uploading スクリーンショット 2024-10-04 17.25.44.png…]()
+# デモ
+<img width="1440" alt="スクリーンショット 2024-10-04 17 25 44" src="https://github.com/user-attachments/assets/841a6ba5-4af0-49e0-a304-a852676e6d63">
 
 # 使用技術
 - フロントエンド
